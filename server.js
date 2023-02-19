@@ -31,9 +31,7 @@ var sender=message.author;
   var msg=message.content.toUpperCase();
   var prefix='>'
   
-  // id
-  /*per:if (sender.id=== "18310231321"){
-  */
+ 
   if (sender.id=== "id"){
   return;
 }
